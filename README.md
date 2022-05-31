@@ -6,9 +6,10 @@ Por eso me decidí a estudiar 📚 programación, para encontrarme con problemas
 | Comenzando en 2012 | con mis primeras líneas en Pseint (pseudocódigo) para resolver simples operaciones y pasando por diferentes lenguajes, entre ellos PHP, C++, C#.NET, Visual Basic, Java, JavaScript para mejorar mi propio pensamiento lógico 🤓, llegando a apasionarme aun mas por el desarrollo , no solo web ☁️ sino también de escritorio 👨🏻‍💻, siendo necesario que día a día sea un poco mas autodidacta para poder brindarle al usuario una experiencia mas placentera 🤩.
 
 No dudes en enviarme un mensaje directo 💬.
-O para conocer mas sobre mi o sobre mi trabajo te dejo algunos enlaces de interés:
-📧E-mail: faq.ramos.14101999@gmail.com
-🎯GitHub: www.github.com/fsr1410
+O para conocer mas sobre mi o sobre mi trabajo te dejo algunos enlaces de interés:\n
+📧E-mail: faq.ramos.14101999@gmail.com \n
+🎯GitHub: www.github.com/fsr1410 \n
+🔎LinkedIn: www.linkedin.com/in/seba-ramos/
 
 Habilidades: Java /  JavaScript / React / NodeJS / Spring / HTML / CSS
 
